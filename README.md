@@ -1,10 +1,10 @@
-# 📊 Superstore Sales Dashboard
+# Superstore Sales Dashboard
 
 A professional Business Intelligence dashboard built for analyzing Superstore sales performance. This dashboard provides interactive visualizations that help business users monitor sales, profit, customer segments, market performance, and product categories.
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 The Superstore Sales Dashboard provides actionable insights into business performance by allowing users to explore sales data through interactive filters and visual reports.
 
@@ -17,13 +17,13 @@ The dashboard is designed for:
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 <img src="Executive.jpg" alt="this images not found" />
 
 ---
 
-# ✨ Features
+# Features
 
 - Interactive Filters
 - KPI Cards
@@ -38,7 +38,7 @@ The dashboard is designed for:
 
 ---
 
-# 📈 Dashboard KPIs
+# Dashboard KPIs
 
 | KPI | Description |
 |------|-------------|
@@ -49,7 +49,7 @@ The dashboard is designed for:
 
 ---
 
-# 📊 Dashboard Visualizations
+# Dashboard Visualizations
 
 ## 1. Sales & Profit by Month
 Displays monthly sales and profit trends.
@@ -98,7 +98,7 @@ Shows comparison between:
 
 ---
 
-# 🎛 Filters
+# Filters
 
 Users can filter dashboard using:
 
@@ -108,7 +108,7 @@ Users can filter dashboard using:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 Dataset contains Superstore sales information including:
 
@@ -125,7 +125,7 @@ Dataset contains Superstore sales information including:
 
 ---
 
-# 📌 Business Insights
+# Business Insights
 
 The dashboard helps answer questions like:
 
@@ -138,7 +138,7 @@ The dashboard helps answer questions like:
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 Replace with your actual stack.
 
@@ -152,7 +152,7 @@ Example:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Superstore-Dashboard/
@@ -168,7 +168,7 @@ Superstore-Dashboard/
 
 ---
 
-# 📊 Key Metrics
+# Key Metrics
 
 - Total Sales
 - Total Profit
@@ -180,7 +180,7 @@ Superstore-Dashboard/
 
 ---
 
-# 🎯 Business Value
+# Business Value
 
 This dashboard enables organizations to:
 
@@ -193,7 +193,7 @@ This dashboard enables organizations to:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Forecasting
 - Customer Retention Analysis
@@ -204,7 +204,7 @@ This dashboard enables organizations to:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -217,7 +217,7 @@ Contributions are welcome.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Smit Patel
 
