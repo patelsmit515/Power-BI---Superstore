@@ -19,11 +19,7 @@ The dashboard is designed for:
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-```
 <img src="proj.pbix" alt="this images not found" />
-```
 
 ---
 
