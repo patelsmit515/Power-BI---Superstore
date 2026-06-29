@@ -214,18 +214,12 @@ Contributions are welcome.
 4. Push the branch.
 5. Open a Pull Request.
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
 # 👨‍💻 Author
 
-Your Name
+Smit Patel
 
-GitHub: https://github.com/yourusername
+GitHub: [Superstore Salesboard](https://github.com/patelsmit515)
 
-LinkedIn: https://linkedin.com/in/yourprofile
